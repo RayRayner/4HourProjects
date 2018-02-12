@@ -1,5 +1,5 @@
 # 4HourProjects
-Making terrible prototypes in quick time
+Making terrible prototypes in quick time. All themes are generated from http://orteil.dashnet.org/gamegen
 
 ## Themes
 
